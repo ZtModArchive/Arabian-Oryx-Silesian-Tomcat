@@ -1,0 +1,7 @@
+<BFParticleDictionary>
+     <OryxArabianEmote>
+      <Conditions>
+         <BFParticleDefinition xmlFile="entities\units\animals\OryxArabian\OryxArabianEmote.xml" removeTime="10.0"/>
+      </Conditions>
+   </OryxArabianEmote>
+   </BFParticleDictionary>

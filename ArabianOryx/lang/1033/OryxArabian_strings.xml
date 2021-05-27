@@ -1,0 +1,148 @@
+﻿<ZT2Strings>
+   <entityname>
+      <!--animal names-->
+      <OryxArabian>Arabian Oryx</OryxArabian>
+      <OryxArabian_stt>Arabian Oryx</OryxArabian_stt>
+      <OryxArabian_lower>the Arabian Oryx</OryxArabian_lower>
+      <OryxArabian_ltt>
+         <color r="255" g="248" b="178">
+            <b>Arabian Oryx</b>
+         </color>
+         <br/>
+         Click to select and then place an Arabian Oryx.
+      </OryxArabian_ltt>
+      <!--gift names-->
+      <OryxArabian_Gift>Arabian Oryx Stuffed Animal</OryxArabian_Gift>
+      <OryxArabian_Gift_stt>Arabian Oryx stuffed animal</OryxArabian_Gift_stt>
+      <OryxArabian_Gift_lower>the Arabian Oryx stuffed animal</OryxArabian_Gift_lower>
+      <OryxArabian_Gift_ltt>
+         <color r="255" g="248" b="178">
+            <b>Arabian Oryx Stuffed Animal</b>
+         </color>
+         <br/>Guests who enjoy watching the Arabian Oryx will buy this gift.
+      </OryxArabian_Gift_ltt>
+   </entityname>
+   <zoopedia_oryxarabian>
+      <entry>Oryx, Arabian</entry>
+      <text>
+         <cell pady="0" width="1000"/>
+         <p/>
+         <cell width="260"/>
+         <cell width="640" height="320" bgimg="ui/zoopedia/topCellBg.dds">
+            <cell width="600" padx="20" pady="20">
+            <cell width="284">
+               <cell width="96" bgimg="ui/zoopedia/littleBox-128.tga">
+                  <img src="entities/units/animals/OryxArabian/OryxArabian_icon.dds" sx="0" sy="0" sw="64" sh="64" height="96" width="96"/>
+               </cell>
+               <cell width="16">
+                  <img src="ui/zoopedia/icon_male.dds" sx="0" sy="0" sw="64" sh="64" width="16" height="16"/>
+               </cell>
+               <cell width="16">
+                  <img src="ui/zoopedia/icon_female.dds" sx="0" sy="0" sw="64" sh="64" width="16" height="16"/>
+               </cell>
+               <cell width="156"/>
+<br/>
+<cell width="32" pady="0">               
+                     <img src="ui/zoopedia/endangered.dds" sx="0" sy="0" sw="64" sh="64" width="32" height="32"/>
+                  </cell>                 
+                  <cell width="224" padx="10" pady="0">
+                     <color r="255" g="255" b="255">
+                     Conservation Status:
+                     <br/>
+                        <color r="255" g="155" b="0">
+Endangered
+                        </color>
+                     </color>                  
+                  </cell>
+               </cell>
+               <cell width="128">
+                  <color r="255" g="255" b="255">Desert<br/></color>
+                  <img src="ui/icon_biomes/icon_desert.dds" sx="0" sy="0" sw="128" sh="128" width="96" height="96"/>
+               </cell>
+               <cell width="128">
+                  <color r="255" g="255" b="255">Arabia<br/></color>
+                  <img src="ui/icon_maplocations/Desert_Asia_Arabia.dds" sx="0" sy="0" sw="256" sh="256" width="96" height="96"/>
+               </cell>
+               <br/>
+               <cell width="284">
+                  <color r="255" g="255" b="255">Class: Mammals <i>(Mammalia)</i><br/>Order: Even-Toed Ungulates <i>(Artiodactyla)</i><br/>Family: Bovids <i>(Bovidae)</i><br/>Genus: <i>Oryx</i><br/>Species:<i>leucoryx</i></color>
+               </cell>
+               <cell width="256" pady="10">
+                  <img src="UI/zoopedia/biome/desert_zoopedia_biomebrush.dds" sx="0" sy="0" sw="256" sh="85"/>
+               </cell>
+            </cell>
+         </cell>
+         <p/>
+         <p/>
+         <cell width="260"/>
+         <cell width="300">
+            <cell width="64">
+               <img src="ui/zoopedia/fact-icon64.tga" sx="0" sy="0" sw="64" sh="64"/>
+            </cell>
+            <cell width="176">
+               <color r="255" g="255" b="255">
+                  <font name="arial" size="12" shadowx="2" shadowy="1" shadowa="50">Fun Arabian Oryx Facts</font>
+               </color>
+            </cell>
+            <p/>
+            <cell width="280" bgimg="ui/zoopedia/factBG.tga" padx="10">
+               <p/>
+               <cell width="32" pady="10">
+                  <img src="ui/zoopedia/fact-bullet.tga" sx="0" sy="0" sw="32" sh="32"/>
+               </cell>
+               <cell width="202" pady="10">
+                  <color r="255" g="255" b="255">The Arabian oryx is one of the world's rarest mammals.</color>
+               </cell>
+               <br/>
+               <cell width="32" pady="10">
+                  <img src="ui/zoopedia/fact-bullet.tga" sx="0" sy="0" sw="32" sh="32"/>
+               </cell>
+               <cell width="202" pady="10">
+                  <color r="255" g="255" b="255">The last wild Arabian oryx was shot in 1972.</color>
+               </cell>
+               <br/>
+               <cell width="32" pady="10">
+                  <img src="ui/zoopedia/fact-bullet.tga" sx="0" sy="0" sw="32" sh="32"/>
+               </cell>
+               <cell width="202" pady="10">
+                  <color r="255" g="255" b="255">The Arabian oryx weighs 100 - 210 kg (220 - 460 lb).</color>
+               </cell>
+               <br/>
+               <cell width="32" pady="10">
+                  <img src="ui/zoopedia/fact-bullet.tga" sx="0" sy="0" sw="32" sh="32"/>
+               </cell>
+               <cell width="202" pady="10">
+                  <color r="255" g="255" b="255">The Arabian oryx eats mainly grasses.</color>
+               </cell>
+               <br/>
+               <cell width="32" pady="10">
+                  <img src="ui/zoopedia/fact-bullet.tga" sx="0" sy="0" sw="32" sh="32"/>
+               </cell>
+               <cell width="202" pady="10">
+                  <color r="255" g="255" b="255">It can go for weeks without drinking water.</color>
+               </cell>
+               <br/>
+               <cell width="32" pady="10">
+                  <img src="ui/zoopedia/fact-bullet.tga" sx="0" sy="0" sw="32" sh="32"/>
+               </cell>
+                <cell width="202" pady="10">
+                  <color r="255" g="255" b="255">Dedicated for my daughters Romana and Anezka.</color>
+               </cell>
+            </cell>
+         </cell>
+         <cell width="340">
+            <color r="255" g="248" b="178">To unlock the Arabian Oryx in challenge or campaign games, you must earn a 3-star zoo fame rating for your zoo.</color>
+            <p/>Shallow depressions are excavated in the soft earth under trees and bushes, and are used to rest in during the heat of the day.  The bright white coat is extremely reflective, acting as a cooling mechanism in the parching desert.  These oryx have the amazing ability to detect rainfall, and will subsequently move in its direction to intercept the new, lush growth.  These erratic movements may span over hundreds of kilometers - one individual is known to have traveled 90 kilometers in just 18 hours.  One of the introduced herds in Oman utilizes "home range" of about 3,000 square kilometers.  This area is broken into several smaller "patches" - 100-300 square kilometers in area - each of which is used for 1-18 months before moving on.  Population density is low - about 0.035 animals per square kilometer.
+
+
+<p/> Hunted to the brink of extinction for their meat, hides, and exquisite horns, this oryx has been saved by captive breeding.  With the second world war, automatic rifles and high speed motor vehicles were introduced to the Arabian peninsula on a large scale, and hunting these desert dwellers reached a feverish pitch.  By 1965, fewer than 500 animals were thought to remain in existence, and the last wild individuals were believed to have be killed in 1972.  Thankfully in the 1950's, efforts to establish captive herds in Arabia were made, and in 1962, several were exported to the United States.  Along with individuals from a few European zoos, these oryx were placed in a breeding facility in the Phoenix Zoo (Arizona), where they successfully bred.  Today, over 100 Arabian oryx have been returned to the wild in Oman and Jordan, while the captive population is over 600 animals.  Oryx (Greek) a gazelle or antelope.  Leukos (Greek) white. 
+                   
+                               
+        </cell>
+         <p/>
+         <cell width="260"/>
+         <cell width="620"> <u><color r="255" g="231" b="135">www.animalinfo.org Recoloured and coded animal by Roman Kocourek-Silesian Tomcat</color></u>
+         </cell>
+      </text>
+   </zoopedia_oryxarabian>
+</ZT2Strings>
